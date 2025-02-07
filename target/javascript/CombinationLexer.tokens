@@ -1,0 +1,12 @@
+Identifier=1
+NUMBER=2
+OPEN_PAR=3
+CLOSE_PAR=4
+COMMA=5
+SEMICOLON=6
+LineComment=7
+WS=8
+'('=3
+')'=4
+','=5
+';'=6
